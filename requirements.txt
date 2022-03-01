@@ -1,0 +1,4 @@
+ffmpeg_python==0.2.0
+git+https://github.com/codingvibe/audio-to-vizualization@main#egg=audio_to_visualization
+git+https://github.com/codingvibe/buzzsprout-uploader@main#egg=buzzsprout_uploader
+git+https://github.com/codingvibe/youtube-uploader@main#egg=youtube_uploader
